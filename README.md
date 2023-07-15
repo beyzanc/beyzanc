@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! I'm Beyza.</h1>
 <h3 align="center">Backend Developer recently graduated from Marmara University's Computer Engineering Department</h3>
 
-- 🌱 I’m currently learning **ASP.NET**
-
+- 👀 I’m interested in .Net Core
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me **beyzancabuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
