@@ -2,7 +2,6 @@
 <h3 align="center">Backend Developer recently graduated from Marmara University's Computer Engineering Department</h3>
 
 - 👀 I’m interested in .Net Core
-- 🌱 I’m currently learning Angular
 - 📫 How to reach me **beyzancabuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
