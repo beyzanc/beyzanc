@@ -1,6 +1,3 @@
-<h1 align="center">Hi there! I'm Beyza.</h1>
-<h3 align="center">Backend Developer recently graduated from Marmara University's Computer Engineering Department</h3>
-
 - 👀 I’m interested in .Net Core
 - 📫 How to reach me **beyzancabuk@gmail.com**
 
